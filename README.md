@@ -18,3 +18,11 @@ A full-stack Spotify-like music streaming application built using Flask, React, 
 - ML: Cosine similarity
 
 ## 📦 Project Structure
+backend/   → Flask API
+frontend/  → React App
+
+## ⚡ Getting Started
+Instructions coming soon...
+
+## 📌 Status
+🚧 In Progress
